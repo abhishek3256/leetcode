@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek3256/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -104,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/abhishek3256/leetcode/tree/master/1916-find-center-of-star-graph) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abhishek3256/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/abhishek3256/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

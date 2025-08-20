@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek3256/leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

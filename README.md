@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek3256/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/abhishek3256/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/abhishek3256/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation

@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhishek3256/leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/abhishek3256/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/abhishek3256/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek3256/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/abhishek3256/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhishek3256/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abhishek3256/leetcode/tree/master/0217-contains-duplicate) |

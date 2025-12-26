@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishek3256/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/abhishek3256/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhishek3256/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek3256/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |

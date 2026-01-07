@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek3256/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishek3256/leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek3256/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishek3256/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 ## Linked List

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek3256/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhishek3256/leetcode/tree/master/0704-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/abhishek3256/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek3256/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |

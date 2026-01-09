@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/abhishek3256/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishek3256/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek3256/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishek3256/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/abhishek3256/leetcode/tree/master/0402-remove-k-digits) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishek3256/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->

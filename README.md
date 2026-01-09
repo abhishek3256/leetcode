@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek3256/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhishek3256/leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/abhishek3256/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek3256/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhishek3256/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/abhishek3256/leetcode/tree/master/0402-remove-k-digits) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishek3256/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek3256/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhishek3256/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |

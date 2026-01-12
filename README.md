@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhishek3256/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek3256/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhishek3256/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/abhishek3256/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek3256/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishek3256/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/abhishek3256/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/abhishek3256/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |

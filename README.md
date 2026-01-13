@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishek3256/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhishek3256/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3453-separate-squares-i](https://github.com/abhishek3256/leetcode/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek3256/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishek3256/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3453-separate-squares-i](https://github.com/abhishek3256/leetcode/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |

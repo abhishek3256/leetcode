@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/abhishek3256/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/abhishek3256/leetcode/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/abhishek3256/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Sorting
 |  |
 | ------- |

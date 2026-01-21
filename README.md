@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhishek3256/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhishek3256/leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhishek3256/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/abhishek3256/leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/abhishek3256/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhishek3256/leetcode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/abhishek3256/leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishek3256/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abhishek3256/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishek3256/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishek3256/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/abhishek3256/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhishek3256/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhishek3256/leetcode/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |

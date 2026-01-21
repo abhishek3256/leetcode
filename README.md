@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhishek3256/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/abhishek3256/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhishek3256/leetcode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhishek3256/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek3256/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/abhishek3256/leetcode/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Search Tree
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishek3256/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhishek3256/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhishek3256/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhishek3256/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhishek3256/leetcode/tree/master/0994-rotting-oranges) |
 ## Topological Sort

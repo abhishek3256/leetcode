@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek3256/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/abhishek3256/leetcode/tree/master/0338-counting-bits) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek3256/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/abhishek3256/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhishek3256/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abhishek3256/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek3256/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek3256/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/abhishek3256/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek3256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

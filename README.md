@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhishek3256/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek3256/leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhishek3256/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/abhishek3256/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhishek3256/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhishek3256/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/abhishek3256/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek3256/leetcode/tree/master/0424-longest-repeating-character-replacement) |

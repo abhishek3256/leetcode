@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhishek3256/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhishek3256/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/abhishek3256/leetcode/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek3256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek3256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/abhishek3256/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/abhishek3256/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek3256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/abhishek3256/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek3256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/abhishek3256/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek3256/leetcode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek3256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishek3256/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishek3256/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/abhishek3256/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/abhishek3256/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek3256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/abhishek3256/leetcode/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishek3256/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek3256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhishek3256/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhishek3256/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhishek3256/leetcode/tree/master/0733-flood-fill) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishek3256/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/abhishek3256/leetcode/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/abhishek3256/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |

@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek3256/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abhishek3256/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abhishek3256/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/abhishek3256/leetcode/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/abhishek3256/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Design
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3794-reverse-string-prefix](https://github.com/abhishek3256/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |

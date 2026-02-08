@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abhishek3256/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/abhishek3256/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek3256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishek3256/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/abhishek3256/leetcode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/abhishek3256/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek3256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/abhishek3256/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishek3256/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3794-reverse-string-prefix](https://github.com/abhishek3256/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishek3256/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek3256/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek3256/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishek3256/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishek3256/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek3256/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/abhishek3256/leetcode/tree/master/2540-minimum-common-value) |

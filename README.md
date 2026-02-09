@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/abhishek3256/leetcode/tree/master/1013-fibonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishek3256/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/abhishek3256/leetcode/tree/master/2540-minimum-common-value) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishek3256/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek3256/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishek3256/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3453-separate-squares-i](https://github.com/abhishek3256/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhishek3256/leetcode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhishek3256/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhishek3256/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishek3256/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishek3256/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -434,4 +437,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek3256/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishek3256/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishek3256/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

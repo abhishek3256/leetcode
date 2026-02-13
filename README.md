@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhishek3256/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishek3256/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/abhishek3256/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhishek3256/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek3256/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishek3256/leetcode/tree/master/0075-sort-colors) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek3256/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek3256/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abhishek3256/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishek3256/leetcode/tree/master/0200-number-of-islands) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek3256/leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Enumeration

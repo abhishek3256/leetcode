@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek3256/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/abhishek3256/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishek3256/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abhishek3256/leetcode/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/abhishek3256/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/abhishek3256/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhishek3256/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/abhishek3256/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abhishek3256/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishek3256/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek3256/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek3256/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/abhishek3256/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/abhishek3256/leetcode/tree/master/0268-missing-number) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishek3256/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/abhishek3256/leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/abhishek3256/leetcode/tree/master/0844-backspace-string-compare) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhishek3256/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Enumeration
